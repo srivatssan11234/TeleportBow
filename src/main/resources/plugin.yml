@@ -1,0 +1,4 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.srivatsanayyasamy.teleportbow.TeleportBow
+api-version: 1.18.1
